@@ -13,13 +13,13 @@ import java.util.Random;
 import javax.swing.JComponent;
 import javax.swing.JFrame;
 
-import at.andiwand.commons.graphics.GraphicsUtil;
-import at.andiwand.commons.math.vector.Vector2d;
 import at.andiwand.snow.physic.Particle;
 import at.andiwand.snow.physic.Physics;
 import at.andiwand.snow.physic.StickyWall;
 import at.andiwand.snow.physic.Wall;
 import at.andiwand.snow.physic.WindArea;
+import at.stefl.commons.graphics.GraphicsUtil;
+import at.stefl.commons.math.vector.Vector2d;
 
 public class Snow extends JComponent {
 
